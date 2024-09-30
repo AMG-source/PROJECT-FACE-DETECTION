@@ -1,0 +1,14 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Blackheads
+  1: Dark Circles
+  2: Dark Spots
+  3: Pimples
+  4: Tan
+  5: Whiteheads
+  6: Wrinkles
